@@ -118,14 +118,6 @@ GET /api/bookings/all
 - CLIENT_URL: Frontend URL  
 ---
 
-## Deployment
-Backend:
-- Render / Railway  
-Frontend:
-- Vercel / Netlify  
-Database:
-- MongoDB Atlas  
----
 
 ## Future Improvements
 - Dynamic pricing  
