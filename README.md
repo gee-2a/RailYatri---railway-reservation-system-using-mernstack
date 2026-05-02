@@ -123,4 +123,10 @@ GET /api/bookings/all
 - Dynamic pricing  
 - AI-based recommendations  
 - Real-time tracking  
-- Payment gateway integration  
+- Payment gateway integration
+
+## project overview and code demonstration
+
+project overview    -   https://drive.google.com/file/d/1jTlk-B1ay-k3cn_-J-fLFhvMvlLZtZ9_/view?usp=drive_link
+
+code demonstration  -   https://drive.google.com/file/d/17kYmub4ROq3u8yUfp8KyirqyU2VVr3nl/view?usp=drive_link
